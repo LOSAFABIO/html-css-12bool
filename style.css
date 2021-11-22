@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+[class*="col-"]{
+    border:solid 1px rgb(26, 81, 184);
+    height: 30px;
+}
